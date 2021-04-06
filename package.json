@@ -1,0 +1,17 @@
+{
+  "name": "FabPlugin",
+  "version": "1.0.0",
+  "description": "This is just an addition of two integer number.",
+  "cordova": {
+    "id": "com.androidtest.plugins.custom",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Saurabh Sawarkar",
+  "license": "ISC"
+}
